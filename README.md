@@ -1,2 +1,2 @@
 # Skill-Matcher
-# Skill-Matcher
+Skill Matcher is a web-based application that helps users search jobs, analyze resumes, and match skills with job requirements. The goal is simple: reduce mismatch between candidate skills and job expectations using automated resume review and skill comparison.
