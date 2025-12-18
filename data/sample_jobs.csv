@@ -1,0 +1,4 @@
+Job Title,Company,Description,Required Skills,Location,Salary
+Data Scientist,Tech Corp,"We are looking for a Data Scientist with strong Python skills, experience in machine learning, pandas, numpy, and SQL. Knowledge of TensorFlow or PyTorch is a plus.","python,machine learning,pandas,numpy,sql,tensorflow","Remote","$120,000"
+Frontend Developer,Web Solutions,"Seeking Frontend Developer proficient in JavaScript, React, HTML, CSS. Experience with modern frameworks and responsive design required.","javascript,react,html,css,responsive design","New York","$100,000"
+Backend Developer,API Masters,"Backend Developer needed with expertise in Python, Django, Flask, SQL, APIs. Knowledge of microservices architecture preferred.","python,django,flask,sql,apis,microservices","San Francisco","$110,000"
